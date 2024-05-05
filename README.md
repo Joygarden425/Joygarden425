@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 <!--
 **Joygarden425/Joygarden425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
